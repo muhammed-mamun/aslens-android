@@ -78,7 +78,7 @@ fun HomeScreen() {
 
                 // Title Section
                 Text(
-                    text = "ASLens - Bridging the Communication Gap",
+                    text = "ASLens - Sign Language Interpreter App",
                     fontSize = 24.sp,
                     fontWeight = FontWeight.Bold,
                     textAlign = TextAlign.Center,
